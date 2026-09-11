@@ -45,7 +45,7 @@ Personal Word Cloud
 
 This word cloud represents qualities, interests, and values that describe me personally and professionally. It highlights characteristics such as being hardworking, confident, trustworthy, respectful, courageous, positive, and interested in technology.
 
-Then we would display the wordcloud.jpg you uploaded prominently underneath.
+
 
 Contact & Professional Presence
 
