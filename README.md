@@ -27,12 +27,14 @@ Location: Houston, Texas
 
 Cybersecurity Skills
 
-You could include skills such as cybersecurity fundamentals, password security and hashing, multi-factor authentication, vulnerability awareness, networking fundamentals, Windows security, threat detection, system hardening, Python basics, Git/GitHub, troubleshooting, documentation, and problem solving. Only keep skills that you have actually worked with.
+Skills such as cybersecurity fundamentals, password security and hashing, multi-factor authentication, vulnerability awareness, networking fundamentals, Windows security, threat detection, system hardening, Python basics, Git/GitHub, troubleshooting, documentation, and problem solving. Only keep skills that you have actually worked with.
 
 Projects & Hands-On Experience
 
-This should showcase your class projects. For example, your current password-security project could appear as:
-
+Investigating live cyberattacks, isolating infected machines, and analyzing digital evidence to figure out how a hacker broke into the network.
+Designing and configuring secure networks using firewalls, Demilitarized Zones (DMZs), and Virtual Private Networks (VPNs).
+Deploying Zero Trust frameworks, multi-factor authentication (MFA), and managing user permissions to ensure only authorized personnel access sensitive data.
+Integrating automated security testing tools directly into the software development lifecycle, ensuring code is checked for vulnerabilities before it goes live.
 Password Hashing & Cracking Demonstration
 
 Created a controlled cybersecurity demonstration using Python to understand password hashing and how weak passwords can be discovered through password-matching techniques. The project demonstrated why organizations should use strong password policies, secure password hashing, and multi-factor authentication.
