@@ -27,7 +27,7 @@ Location: Houston, Texas
 
 Cybersecurity Skills
 
-Skills such as cybersecurity fundamentals, password security and hashing, multi-factor authentication, vulnerability awareness, networking fundamentals, Windows security, threat detection, system hardening, Python basics, Git/GitHub, troubleshooting, documentation, and problem solving. Only keep skills that you have actually worked with.
+Skills such as cybersecurity fundamentals, password security and hashing, multi-factor authentication, vulnerability awareness, networking fundamentals, Windows security, threat detection, system hardening, Python basics, troubleshooting, documentation, and problem solving. Only keep skills that you have actually worked with.
 
 Projects & Hands-On Experience
 
