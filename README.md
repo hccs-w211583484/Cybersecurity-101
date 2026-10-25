@@ -39,6 +39,10 @@ Password Hashing & Cracking Demonstration
 
 Created a controlled cybersecurity demonstration using Python to understand password hashing and how weak passwords can be discovered through password-matching techniques. The project demonstrated why organizations should use strong password policies, secure password hashing, and multi-factor authentication.
 
+My Work: <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
+<img width="792" height="850" alt="image" src="https://github.com/user-attachments/assets/220b1988-668b-4e75-a88d-79674297cdbe" />
+<img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/258044b8-41e8-4c2f-a26a-227911adc08c" />
+
 Skills/Concepts: Python, password hashing, password security, authentication, MFA, cybersecurity awareness.
 
 Personal Word Cloud
