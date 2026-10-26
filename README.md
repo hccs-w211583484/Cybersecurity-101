@@ -38,8 +38,13 @@ Integrating automated security testing tools directly into the software developm
 Password Hashing & Cracking Demonstration
 
 Created a controlled cybersecurity demonstration using Python to understand password hashing and how weak passwords can be discovered through password-matching techniques. The project demonstrated why organizations should use strong password policies, secure password hashing, and multi-factor authentication.
+My Projects 
+This was one of my projects I did In this project, I used Wireshark to analyze network traffic and identify suspicious activity, including potential port scanning and brute-force attacks. I examined captured packets, applied TCP filters, identified suspicious IP addresses, and used the Follow TCP Stream feature to investigate network communications. This project helped me develop practical skills in network security analysis, threat detection, and cybersecurity incident response.  <img width="712" height="836" alt="image" src="https://github.com/user-attachments/assets/176c1556-6b9e-4004-985c-c8706605b3b1" /> 
 
-My Work: <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
+
+ <img width="778" height="820" alt="image" src="https://github.com/user-attachments/assets/41cace84-ee31-4eaf-9ce5-3ca8f577cf95" />  In this project, I built a mini Security Operations Center (SOC) using Sysmon and Splunk Enterprise to monitor and analyze Windows security events. I installed and configured Sysmon to collect system activity logs and connected it to Splunk for security monitoring. I investigated suspicious PowerShell activity, failed login attempts, and unusual processes. This project helped me develop hands-on skills in threat detection, log analysis, security monitoring, and incident response.
+
+My Work <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
 <img width="792" height="850" alt="image" src="https://github.com/user-attachments/assets/220b1988-668b-4e75-a88d-79674297cdbe" />
 <img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/258044b8-41e8-4c2f-a26a-227911adc08c" />
 
