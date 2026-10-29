@@ -16,7 +16,7 @@ I am developing my knowledge and hands-on experience in cybersecurity, networkin
 
 I am especially interested in learning how cybersecurity professionals identify vulnerabilities, protect systems, investigate threats, and reduce security risks.
 <img width="2734" height="2956" alt="me" src="https://github.com/user-attachments/assets/09cbffce-677e-4560-b7e2-c11b50528573" />
-<img width="636" height="412" alt="image" src="https://github.com/user-attachments/assets/77166013-9051-4162-8dbf-9777f17ee5be" /> I did okay on the practice test my individual I would I did average.
+<img width="636" height="412" alt="image" src="https://github.com/user-attachments/assets/77166013-9051-4162-8dbf-9777f17ee5be" /> I did okay on the practice test my individual I would say I did average.
 
 Education
 
