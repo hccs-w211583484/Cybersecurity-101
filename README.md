@@ -1,14 +1,14 @@
 # Cybersecurity-101
 
-Franklin Martinez – Cybersecurity Portfolio
+## Franklin Martinez – Cybersecurity Portfolio
 
 
 
-Franklin Martinez
-Cybersecurity Portfolio
+### Franklin Martinez
+### Cybersecurity Portfolio
 Freshman at Houston Community College pursuing an Associate Degree as a Cyber Security Specialist. Building hands-on skills in cybersecurity, networking, system security, and cyber defense.
 
-About Me
+## About Me
 
 Hello, my name is Franklin Martinez. I am currently a freshman at Houston Community College pursuing an Associate Degree in Cyber Security Specialist. My expected graduation date is December 13, 2026.
 
@@ -18,19 +18,20 @@ I am especially interested in learning how cybersecurity professionals identify 
 <img width="2734" height="2956" alt="me" src="https://github.com/user-attachments/assets/09cbffce-677e-4560-b7e2-c11b50528573" />
 <img width="636" height="412" alt="image" src="https://github.com/user-attachments/assets/77166013-9051-4162-8dbf-9777f17ee5be" /> I did okay on the practice test my individual I would say I did average.
 
-Education
+## Education
 
 Houston Community College
 Associate Degree – Cyber Security Specialist
 Expected Graduation: December 13, 2026
 Classification: Freshman
-Location: Houston, Texas
 
-Cybersecurity Skills
+## Location: Houston, Texas
+
+## Cybersecurity Skills
 
 Skills such as cybersecurity fundamentals, password security and hashing, multi-factor authentication, vulnerability awareness, networking fundamentals, Windows security, threat detection, system hardening, Python basics, troubleshooting, documentation, and problem solving. Only keep skills that you have actually worked with.
 
-Projects & Hands-On Experience
+## Projects & Hands-On Experience
 
 Investigating live cyberattacks, isolating infected machines, and analyzing digital evidence to figure out how a hacker broke into the network.
 Designing and configuring secure networks using firewalls, Demilitarized Zones (DMZs), and Virtual Private Networks (VPNs).
@@ -48,13 +49,13 @@ This was one of my projects I did In this project, I used Wireshark to analyze n
  I did Wireshark <img width="692" height="826" alt="image" src="https://github.com/user-attachments/assets/5e404695-37ff-4c38-bd95-80a47016f041" />
   In this project, I learned how to use Wireshark to capture, filter, and analyze network traffic. I examined different types of network packets, including TCP, UDP, HTTP, and DNS, to understand how devices communicate over a network. I also practiced identifying IP addresses, analyzing network protocols, and detecting unusual traffic patterns. This project helped me develop hands-on skills in network monitoring, packet analysis, troubleshooting, and cybersecurity threat detection.
 
-My Work <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
+## My Work <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
 <img width="792" height="850" alt="image" src="https://github.com/user-attachments/assets/220b1988-668b-4e75-a88d-79674297cdbe" />
 <img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/258044b8-41e8-4c2f-a26a-227911adc08c" />
 
-Skills/Concepts: Python, password hashing, password security, authentication, MFA, cybersecurity awareness.
+## Skills/Concepts: Python, password hashing, password security, authentication, MFA, cybersecurity awareness.
 
-Personal Word Cloud
+## Personal Word Cloud
 <img width="1024" height="1024" alt="wordcloud" src="https://github.com/user-attachments/assets/8b88928c-d5c4-4a1c-9f4e-f0056dfa05a5" />
 
 
@@ -62,7 +63,7 @@ This word cloud represents qualities, interests, and values that describe me per
 
 
 
-Contact & Professional Presence
+## Contact & Professional Presence
 
 Franklin Martinez
 Houston, Texas
