@@ -52,7 +52,7 @@ This was one of my projects I did In this project, I used Wireshark to analyze n
  I did Wireshark <img width="692" height="826" alt="image" src="https://github.com/user-attachments/assets/5e404695-37ff-4c38-bd95-80a47016f041" />
   In this project, I learned how to use Wireshark to capture, filter, and analyze network traffic. I examined different types of network packets, including TCP, UDP, HTTP, and DNS, to understand how devices communicate over a network. I also practiced identifying IP addresses, analyzing network protocols, and detecting unusual traffic patterns. This project helped me develop hands-on skills in network monitoring, packet analysis, troubleshooting, and cybersecurity threat detection.
 
-## My Work 
+  Work 
 ## <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
 <img width="792" height="850" alt="image" src="https://github.com/user-attachments/assets/220b1988-668b-4e75-a88d-79674297cdbe" />
 <img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/258044b8-41e8-4c2f-a26a-227911adc08c" />
