@@ -56,6 +56,10 @@ This was one of my projects I did In this project, I used Wireshark to analyze n
 ## <img width="788" height="836" alt="image" src="https://github.com/user-attachments/assets/597a4ec1-465e-427e-b48d-2ba62d27d433" />
 <img width="792" height="850" alt="image" src="https://github.com/user-attachments/assets/220b1988-668b-4e75-a88d-79674297cdbe" />
 <img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/258044b8-41e8-4c2f-a26a-227911adc08c" />
+<img width="802" height="778" alt="image" src="https://github.com/user-attachments/assets/ca8f4eac-ea02-45d5-8c6b-b5249b74fc91" />
+<img width="778" height="708" alt="image" src="https://github.com/user-attachments/assets/8a4693a0-176c-42b5-a602-075f31decafd" />
+<img width="776" height="710" alt="image" src="https://github.com/user-attachments/assets/394e2e57-0c6d-4983-a998-1f54c4fb1925" />
+
 
 ## Skills/Concepts: Python, password hashing, password security, authentication, MFA, cybersecurity awareness.
 
