@@ -15,8 +15,9 @@ Hello, my name is Franklin Martinez. I am currently a freshman at Houston Commun
 I am developing my knowledge and hands-on experience in cybersecurity, networking, information security, and protecting computer systems. My goal is to continue strengthening my technical and professional skills as I prepare for a career in cybersecurity.
 
 I am especially interested in learning how cybersecurity professionals identify vulnerabilities, protect systems, investigate threats, and reduce security risks.
-<img width="626" height="430" alt="image" src="https://github.com/user-attachments/assets/28416a8d-3333-4dcc-a5dc-92963a36741e" /> Here's how I did on my gymnasium. 
+
 <img width="2734" height="2956" alt="me" src="https://github.com/user-attachments/assets/09cbffce-677e-4560-b7e2-c11b50528573" />
+<img width="626" height="430" alt="image" src="https://github.com/user-attachments/assets/28416a8d-3333-4dcc-a5dc-92963a36741e" /> Here's how I did on my gymnasium. 
 <img width="636" height="412" alt="image" src="https://github.com/user-attachments/assets/77166013-9051-4162-8dbf-9777f17ee5be" /> I did okay on the practice test my individual I would say I did average.
 
 <img width="636" height="434" alt="image" src="https://github.com/user-attachments/assets/f1bf8d63-fcf2-4032-8390-228279ae7049" />
